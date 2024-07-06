@@ -14,7 +14,7 @@ cachetools==5.2.1
 cad-viewer-widget==1.4.1
 cadquery-massembly==1.0.0
 cadquery-ocp==7.7.2
-certifi==2024.2.2
+certifi==2024.7.4
 cffi==1.16.0
 charset-normalizer==3.3.2
 comm==0.2.2
